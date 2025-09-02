@@ -1,2 +1,4 @@
 .qodo/
 .next/
+node_modules/
+.node/
