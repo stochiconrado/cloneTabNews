@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev":"next dev"
+    "dev": "next dev"
   },
   "author": "Conrado Alberto da Silva Stochi",
   "license": "MIT",
   "description": "Implementação do https://www.tabnews.com.br para o http://curso.dev",
   "dependencies": {
-    "next": "^15.3.0",
+    "next": "15.3.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
