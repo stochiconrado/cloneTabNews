@@ -14,8 +14,8 @@
 	"description": "Implementação do https://www.tabnews.com.br para o http://curso.dev",
 	"dependencies": {
 		"next": "^9.3.3",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react": "^19.2.7",
+		"react-dom": "^19.2.7"
 	},
 	"devDependencies": {
 		"jest": "^29.6.2",
