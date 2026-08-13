@@ -7,15 +7,16 @@
 		"lint:check": "prettier --check .",
 		"lint:fix": "prettier --write .",
 		"test": "jest",
-		"test:watch": "jest --watch"
+		"test:watch": "jest --watchAll"
 	},
 	"author": "Conrado Alberto da Silva Stochi",
 	"license": "MIT",
 	"description": "Implementação do https://www.tabnews.com.br para o http://curso.dev",
 	"dependencies": {
-		"next": "^9.3.3",
-		"react": "^19.2.7",
-		"react-dom": "^19.2.7"
+		"next": "^16.3.0",
+		"pg": "^8.23.0",
+		"react": "^19.2.8",
+		"react-dom": "^19.2.8"
 	},
 	"devDependencies": {
 		"cross-env": "^10.1.0",
